@@ -37,3 +37,12 @@ main a:visited:hover {
 .card {
     color: white;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
+
+  .btn {
+    background-color: darkblue;
+    
+  }
