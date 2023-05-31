@@ -9,3 +9,19 @@ section {
     padding: 20px;
     background-color: rgb(124, 122, 122);
 }
+
+a {
+    color: lightblue;
+}
+
+a:hover {
+    color: navy;
+}
+
+a:visited {
+    color: darkslateblue;
+}
+
+a:visited:hover {
+    color: rgb(90, 83, 131);
+}
