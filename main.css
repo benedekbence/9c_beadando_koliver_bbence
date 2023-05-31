@@ -10,18 +10,18 @@ section {
     background-color: rgb(124, 122, 122);
 }
 
-a {
+section a {
     color: lightblue;
 }
 
-a:hover {
+section a:hover {
     color: navy;
 }
 
-a:visited {
+section a:visited {
     color: darkslateblue;
 }
 
-a:visited:hover {
+section a:visited:hover {
     color: rgb(90, 83, 131);
 }
