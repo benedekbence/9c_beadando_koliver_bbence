@@ -9,7 +9,7 @@ body {
 main {
     margin: 70px 100px;
     padding: 20px;
-    background-color: rgb(124, 122, 122);
+    background-color: rgba(124, 122, 122, 0.788);
 }
 
 main a {
@@ -32,4 +32,8 @@ main a:visited:hover {
     color: white;
     font-weight: bold;
     text-decoration: underline 2px solid white;
+}
+
+.card {
+    color: white;
 }
