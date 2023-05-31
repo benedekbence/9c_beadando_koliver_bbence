@@ -2,26 +2,34 @@ body {
     background-image: url(shutterstock_1556534186.webp);
     color: white;
     text-align: justify;
+    background-size: 150%;
+    background-repeat: repeat-y;
 }
 
-section {
+main {
     margin: 70px 100px;
     padding: 20px;
     background-color: rgb(124, 122, 122);
 }
 
-section a {
+main a {
     color: lightblue;
 }
 
-section a:hover {
+main a:hover {
     color: navy;
 }
 
-section a:visited {
+main a:visited {
     color: darkslateblue;
 }
 
-section a:visited:hover {
+main a:visited:hover {
     color: rgb(90, 83, 131);
+}
+
+.active {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline 2px solid white;
 }
